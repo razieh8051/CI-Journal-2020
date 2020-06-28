@@ -1,0 +1,697 @@
+Prefix: : <http://www.w3.org/2002/07/owl#>
+Prefix: dc: <http://purl.org/dc/elements/1.1/>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Ontology: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350>
+ObjectProperty: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#R>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4>
+
+ Class: <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#D>
+ EquivalentTo: 
+	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#X3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y2>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q3>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B3> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#O>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Q>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V2>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#J2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Z3>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S2> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#C3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F3>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G3> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>))
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#N>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A4>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T2>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#K>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#Y3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#F2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2>)))
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#S3>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#I2>)) or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#P>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#H> or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>)))
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#E>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#U> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B2>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#L3>
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#W3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#G2>)
+ and 	((not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A>))
+ or (not (<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#A3>)) or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#V3>)
+ and 	(<http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#B4>
+ or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#M2> or <http://www.semanticweb.org/razieh/ontologies/2015/10/untitled-ontology-350#T3>)
